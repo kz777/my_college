@@ -60,6 +60,27 @@ p {
 
 }
 
+/* TOP MENU */
+
+ul {
+	width: 100%;
+	padding: 0;
+	list-style: none!important;
+
+}
+
+li {
+	text-align: center;
+	padding: 5px;
+	background-color: #4a525f;
+	font-style: italic;
+	border-bottom: 2px solid #ffffff
+}
+
+
+
+
+
 
 
 
