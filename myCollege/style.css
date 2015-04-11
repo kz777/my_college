@@ -77,6 +77,18 @@ li {
 	border-bottom: 2px solid #ffffff
 }
 
+li, li a {
+	text-decoration: none;
+	color: #ffffff
+}
+
+li:hover, li a:hover {
+	background-color: #393535;
+
+}
+/*TOP MENU END*/
+
+
 
 
 
