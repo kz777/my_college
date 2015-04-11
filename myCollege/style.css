@@ -7,4 +7,65 @@ header, section, footer, aside, nav, main, article, figure {
 }
 body {
 	margin: 0 auto;
+	width: 100%;
+	height: 100%;
 }
+
+img {
+	width: 100%;
+	display: block;
+}
+
+p {
+	color: #4a525f;
+	margin: 0;
+}
+
+/**
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    contenteditable attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that are clearfixed.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.cf {
+    *zoom: 1;
+}
+
+#logo p {
+	display: block;
+	position: absolute;
+	width: 100%;
+	top:1%;
+	color: #ffffff;
+	font-size: 2.2em;
+	font-style: italic;
+	font-weight: bold;
+
+}
+
+
+
+
+
+
+
+
+
+
