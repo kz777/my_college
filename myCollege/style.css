@@ -88,6 +88,22 @@ li:hover, li a:hover {
 }
 /*TOP MENU END*/
 
+header {
+	position: relative;
+}
+
+header {
+	position: absolute;
+	bottom: 60%;
+	width: 100%;
+	text-align: center;
+	color: #ffffff;
+	font-size: 1.6em;
+
+}
+
+#
+
 
 
 
