@@ -122,6 +122,13 @@ header {
 	margin-bottom: 2%;
 }
 
+.buttons {
+	width: 30%;
+	float: left;
+	padding-left: 2.5%;
+	text-align: center;
+}
+
 
 
 
