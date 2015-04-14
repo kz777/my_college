@@ -151,6 +151,40 @@ row1-2 {
 	text-align: center;
 }
 
+.row2 img {
+	width: 40%;
+	display: inline-block;
+}
+
+.row2 p {
+	font-size: 1.4em;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	color: #ffffff;
+}
+
+.row3-1 {
+	display: inline-block;
+	width: 100%;
+	background-color: #E0E0EB;
+	font-size: 1.6em;
+	text-align: center;
+	padding: 4% 0 4% 0;
+
+}
+
+.highlighted a {
+	text-decoration: underline;
+	color: #ec008c;
+
+}
+
+.copy {
+	text-align: center;
+	padding-bottom: 2%;
+	background-color: #ffffff;
+}
+
 
 
 
