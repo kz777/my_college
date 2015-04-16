@@ -198,7 +198,28 @@ divices >600px
 		text-align: center;
 		background-color: #ffffff
 	}
+
+	header li, li a {
+		display: inline-block;
+		background-color: transparent;
+		color: #4a525f;
+		border-right: 1px solid #4a525f;
+		border-bottom: none;
+	}
+
+	header li:hover, li a:hover {
+		background-color: #d8cccc;
+	}
+
+	header li:last-child, li a:last-child {
+		border-right: none;
+	}
+	?
+	/* TOP MENU END */
 }
+
+
+
 
 
 
