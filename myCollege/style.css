@@ -214,9 +214,16 @@ divices >600px
 	header li:last-child, li a:last-child {
 		border-right: none;
 	}
-	?
 	/* TOP MENU END */
+	
+
+	header p {
+		bottom: 40%;
+		font-size: 2em;
+	}
+
 }
+
 
 
 
