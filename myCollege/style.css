@@ -241,6 +241,14 @@ divices >600px
 		border-bottom: 0;
 	}
 
+	footer li:hover, li a:hover {
+		background-color: #d8cccc;
+	}
+
+	footer li:last-child, li a:last-child {
+		border-right: none;
+	}
+     /* FOOTER MENU END*/
 }
 
 
