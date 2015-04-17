@@ -222,6 +222,25 @@ divices >600px
 		font-size: 2em;
 	}
 
+	#apply-btn {
+		bottom: 30%;
+	}
+
+	/* FOOTER MENU */
+
+	footer ul {
+		text-align: center;
+		background-color: #8993ca;
+		margin: 0;
+	}
+
+	footer li, li a {
+		display: inline-block;
+		background-color: transparent;
+		border-right: 1px solid #4a525f;
+		border-bottom: 0;
+	}
+
 }
 
 
