@@ -249,7 +249,21 @@ divices >600px
 		border-right: none;
 	}
      /* FOOTER MENU END*/
+
+
+	.row1-1 {
+		width: 50%;
+		margin-top: 2%;
+	}
+
+	.row1-2 {
+		width: 50%;
+		font-size: 2em;
+		background-color: #ffffff;
+	}
+
 }
+
 
 
 
