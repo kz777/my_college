@@ -283,6 +283,16 @@ divices >600px
 		float: left;
 	}
 
+	.copy {
+		padding-top: 2%;
+		background-color: #E0E0EB;
+	}
+
+
+	footer p {
+		font-size: 1.2em;
+	}
+
 
 
 
