@@ -127,15 +127,13 @@ header p {
 	float: left;
 	padding-left: 2.5%;
 	text-align: center;
-
 }
 
 .buttons a {
 	text-decoration: none;
-
 }
 
-row1-2 {
+.row1-2 {
 	width: 100%;
 	background-color: #E0E0EB;
 	font-size: 1.6em;
@@ -262,7 +260,29 @@ divices >600px
 		background-color: #ffffff;
 	}
 
-}
+	.row2 p {
+		font-size: 2em;
+	}
+
+	.sarah, .tom {
+		width: 50%;
+		float: left;
+		padding-bottom: 2%;
+	}
+
+	.row3-1 {
+		width: 50%;
+		font-size: 2em;
+		background-color: #ffffff;
+		padding-top: 11%;
+		float: left;
+	}
+
+	.row3-2 {
+		width: 50%;
+		float: left;
+	}
+
 
 
 
